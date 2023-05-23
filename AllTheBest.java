@@ -65,7 +65,7 @@ public class AllTheBest implements ActionListener {
         JL4.addActionListener(this);
         JL5.addActionListener(this);
 
-        JL1.setVisible(true);
+       // JL1.setVisible(true);
         frame.setBackground(Color.gray);
         frame.setLayout(new FlowLayout());
 
